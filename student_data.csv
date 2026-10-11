@@ -1,0 +1,41 @@
+Student_ID,Name,Department,ML,Java,Maths,OS,Attendance
+S101,Aarav Sharma,CSE-AIML,85,78.0,92,80,91
+S102,Priya Verma,CSE-AIML,90,88.0,86,93,96
+S103,Amit Kumar,CSE,45,55.0,38,50,72
+S104,Neha Singh,CSE-AIML,76,82.0,80,79,88
+S105,Arjun Patel,CSE,32,48.0,41,35,65
+S106,Ananya Das,IT,94,91.0,89,95,98
+S107,  Rohan Gupta  ,CSE-AIML,67,73.0,70,75,82
+S108,Sneha Rao,IT,81,84.0,77,86,90
+S109,Vikram Joshi,CSE,58,62.0,55,60,77
+S110,Isha Mehta,CSE-AIML,88,92.0,95,90,94
+S111,Karan Malhotra,IT,73,69.0,76,71,85
+S112,Meera Nair,CSE,96,94.0,91,97,99
+S113,Aditya Roy,CSE-AIML,41,39.0,52,46,74
+S114,Kavya Iyer,it,84,79.0,88,82,92
+S115,Rahul Das,CSE,63,57.0,66,61,79
+S116,Pooja Mishra,CSE-AIML,78,85.0,81,83,87
+S117,Dev Shah,IT,52,46.0,59,55,68
+S118,Sanjana Bose,CSE,91,89.0,94,92,95
+S119,Manish Yadav,CSE-AIML,36,44.0,33,40,61
+S120,Diya Kapoor,IT,87,83.0,90,88,93
+S121,Siddharth Jain,CSE,9,,64,72,84
+S122,Aditi Sen,CSE-AIML,80,77.0,85,81,89
+S123,Varun Reddy,IT,55,60.0,48,57,73
+S124,Tanya Chawla,CSE,93,86.0,90,94,97
+S125,Nikhil Bansal,CSE-AIML,47,52.0,45,49,70
+S126,Simran Kaur,IT,74,80.0,78,76,86
+S127,Yash Thakur,CSE,61,66.0,58,63,80
+S128,Riya Mukherjee,CSE-AIML,89,95.0,92,91,105
+S129,Harsh Vardhan,IT,39,42.0,37,45,64
+S130,Nandini Pillai,CSE,82,87.0,84,85,91
+S131,Akash Sinha,CSE-AIML,70,68.0,73,69,83
+S132,Anvi Shaw,IT,97,93.0,96,98,79
+S133,Mohit Agarwal,CSE,seventy,54.0,43,47,71
+S134,Shreya Kulkarni,CSE-AIML,86,81.0,87,84,90
+S135,Parth Trivedi,IT,64,59.0,67,62,78
+S136,Zoya Khan,CSE,92,90.0,88,96,95
+S137,Sahil Choudhary,CSE-AIML,43,47.0,51,39,69
+S138,Madhuri Reddy,IT,77,74.0,82,79,88
+S139,Kabir Anand ,CSE,56,63.0,60,58,76
+S140,Lavanya Krishnan,CSE-AIML,83,89.0,91,87,94
